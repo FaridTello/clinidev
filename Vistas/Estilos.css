@@ -1,0 +1,140 @@
+﻿body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /*background-color: lightgray;*/
+    background-color: #dddddd;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+.titulo {
+    font-size: 35px;
+    font-weight: 700;
+    color: steelblue;
+}
+
+
+.recuadro {  /*este es el que use en login*/
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+    padding: 25px 30px 40px 30px;
+    text-align: center;
+    width: 25%;      
+    margin: 0 auto;
+}
+
+.recuadro-opciones {
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+    padding: 25px 45px 25px 25px;
+    text-align: center;
+    width: 25%;
+    margin: 0 auto;
+}
+
+.barra-superior {
+    background-color: white;
+    width: 100%;
+    height: 45px;
+    margin-bottom: 50px;
+    font-weight: 700;
+    color: #666666;
+}
+
+
+.centrado-recuadro { /*para la tabla*/
+    width: 100%;
+}
+
+.tabla-barra-superior {
+    width: 100%;
+    height: 51px;
+}
+
+.botones-button {
+    background-color: #dddddd;
+    border-radius: 5px;
+    color: steelblue;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+    .botones-button:hover {
+        background-color: steelblue;
+        color: white;
+    }
+
+.botones2 { /*para los hyperlinks*/
+    background-color: #dddddd;
+    border-radius: 5px;
+    color: steelblue;
+    font-weight: 600;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+    .botones2:hover {
+        background-color: steelblue;
+        color: white;
+    }
+
+.botones-grises {
+    background-color: #dddddd;
+    border-radius: 5px;
+    color: steelblue;
+    font-weight: 600;
+    border: solid 1px steelblue;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 0px;
+}
+
+    .botones-grises:hover {
+        background-color: steelblue;
+        color: white;
+    }
+
+.hylink-limpio {
+    text-decoration: none;
+    color: #666666;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+    .hylink-limpio:hover {
+        color: steelblue;
+    }
+
+.salir {
+    text-decoration: none;
+    color: #666666;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+    .salir:hover {
+        color: firebrick;
+    }
+
+.textbox {
+    padding: 8px 5px;
+    background-color: transparent; 
+    border: none;
+    border-bottom: 2px solid #ccc;
+    font-size: 16px;
+    color: #333;
+    outline: none;
+}
+    .textbox:focus {
+        border-bottom: 2px solid steelblue;
+    }
