@@ -23,9 +23,9 @@ El sistema está desarrollado con una arquitectura en tres capas:
 - **Vistas**: interfaz de usuario (ASP.NET WebForms)
 
 ## DER Clínica
-![alt text](Der imagen-1.png)
-![alt text](Der imagen-2.png)
-![alt text](Der imagen-3.png)
+![DER 1](docs/der/der-imagen-1.png)
+![DER 2](docs/der/der-imagen-2.png)
+![DER 3](docs/der/der-imagen-3.png)
 
 ## Funcionalidades principales
 
@@ -89,9 +89,9 @@ The system follows a three-layer architecture:
 The full project documentation is available in the [`/docs`](./docs) folder.
 
 ## Database ER Diagram
-![alt text](Der imagen-1.png)
-![alt text](Der imagen-2.png)
-![alt text](Der imagen-3.png)
+![ER 1](docs/der/der-imagen-1.png)
+![ER 2](docs/der/der-imagen-2.png)
+![ER 3](docs/der/der-imagen-3.png)
 
 ## Team
 
