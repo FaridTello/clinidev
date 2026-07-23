@@ -31,22 +31,18 @@ El sistema está desarrollado con una arquitectura en tres capas:
 - Informes (ausentismo, demanda por especialidad, mapa de demanda, pacientes por fecha)
 - Sistema de usuarios con roles (Administrador, Médico)
 
-## Capturas de pantalla
-
-*(Agregar acá capturas de: login, listado de médicos, alta de turno, informes)*
-
 ## Documentación
 
 El documento completo del proyecto (incluyendo el DER) se encuentra en la carpeta [`/docs`](./docs).
 
 ## Equipo
 
-- Leonardo Tello Moscoso
+- Leonardo Farid Tello Moscoso
 - Thiago Pinza
 - Matías Giménez
 - Matías Romano
+- Agustín Romano
 - Brandon Avendaño
-- Agustín
 
 ---
 
@@ -83,10 +79,6 @@ The system follows a three-layer architecture:
 - Reports (absenteeism, demand by specialty, demand map, patients by date)
 - Role-based user system (Admin, Doctor)
 
-## Screenshots
-
-*(Add screenshots here: login, doctor list, appointment creation, reports)*
-
 ## Documentation
 
 The full project documentation (including the ER diagram) is available in the [`/docs`](./docs) folder.
@@ -98,4 +90,4 @@ The full project documentation (including the ER diagram) is available in the [`
 - Matías Giménez
 - Matías Romano
 - Brandon Avendaño
-- Agustín
+- Agustín Romano
