@@ -22,6 +22,11 @@ El sistema está desarrollado con una arquitectura en tres capas:
 - **Negocio**: lógica de validación y procesamiento
 - **Vistas**: interfaz de usuario (ASP.NET WebForms)
 
+## DER Clínica
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
 ## Funcionalidades principales
 
 - Gestión de médicos (alta, baja lógica, modificación, listado)
@@ -33,7 +38,7 @@ El sistema está desarrollado con una arquitectura en tres capas:
 
 ## Documentación
 
-El documento completo del proyecto (incluyendo el DER) se encuentra en la carpeta [`/docs`](./docs).
+El documento completo del proyecto se encuentra en la carpeta [`/docs`](./docs).
 
 ## Equipo
 
@@ -81,7 +86,12 @@ The system follows a three-layer architecture:
 
 ## Documentation
 
-The full project documentation (including the ER diagram) is available in the [`/docs`](./docs) folder.
+The full project documentation is available in the [`/docs`](./docs) folder.
+
+## Database ER Diagram
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## Team
 
