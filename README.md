@@ -69,6 +69,9 @@ Algunas pantallas principales de Clinidev:
 
 La documentación completa del proyecto se encuentra disponible en la carpeta [`/docs`](./docs).
 
+## Video
+[![Ver demo](https://img.youtube.com/vi/yvDy2eJa2nE/0.jpg)](https://youtu.be/yvDy2eJa2nE)
+
 ## Equipo
 
 - Leonardo Farid Tello Moscoso
@@ -77,7 +80,6 @@ La documentación completa del proyecto se encuentra disponible en la carpeta [`
 - Matías Romano
 - Agustín Romano
 - Brandon Avendaño
-
 
 ---
 
