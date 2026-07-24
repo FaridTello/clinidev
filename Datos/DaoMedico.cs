@@ -110,8 +110,6 @@ namespace Datos
             param.Value = med.getId_Especialidad_M();
             param = comando.Parameters.Add("@Id_Localidad_M", SqlDbType.Int);
             param.Value = med.getId_Localidad_M();
-            param = comando.Parameters.Add("@Activo_M", SqlDbType.Bit);
-            param.Value = med.getActivo_M();
         }
 
         /*ArmarParametrosMedicoEliminar
